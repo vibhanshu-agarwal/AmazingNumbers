@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Amazing Numbers/task/build/
+/Amazing Numbers/task/out/
+/Amazing Numbers/task/out/production/classes/
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/Enums in Java/Hidden enumeration/out/
+/Topics/Enums in Java/Hidden enumeration/out/production/classes/
+/Topics/Fields and methods in enum/Danger levels/out/
+/Topics/Fields and methods in enum/Danger levels/out/production/classes/
+/Topics/Static members/Detail manufacturing/out/
+/Topics/Static members/Detail manufacturing/out/production/classes/
+/Topics/StringBuilder/The English alphabet/out/
+/Topics/StringBuilder/The English alphabet/out/production/classes/

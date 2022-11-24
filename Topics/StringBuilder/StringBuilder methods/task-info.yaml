@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: '&lt;code&gt;charAt&lt;/code&gt;'
+- text: '&lt;code&gt;add&lt;/code&gt;'
+- text: '&lt;code&gt;append&lt;/code&gt;'
+- text: '&lt;code&gt;reverse&lt;/code&gt;'
+- text: '&lt;code&gt;length&lt;/code&gt;'
+- text: '&lt;code&gt;firstIndexOf&lt;/code&gt;'
+- text: '&lt;code&gt;remove&lt;/code&gt;'
+- text: '&lt;code&gt;size&lt;/code&gt;'
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/23734#comment
+status: Solved
+record: -1
+local_check: false

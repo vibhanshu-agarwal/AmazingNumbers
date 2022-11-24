@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class EnglishAlphabet {
+
+        public static StringBuilder createEnglishAlphabet() {
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12514#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 21 Nov 2022 04:43:17 UTC"
+record: -1
